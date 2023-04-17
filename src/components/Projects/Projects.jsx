@@ -28,7 +28,7 @@ export default function Projects() {
             image: CountriesSearcher,
             title: 'Countries Encyklopedia',
             github: "https://github.com/Koleckoo/countries",
-            demo: "https://keen-gecko-2828c3.netlify.app/"
+            demo: "https://countries-illetsko.netlify.app/"
 
         },
     ]
