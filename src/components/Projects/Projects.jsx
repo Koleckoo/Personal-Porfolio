@@ -1,6 +1,7 @@
 import "./Projects.css"
 import CalenDr from '../../assets/CalenDr.jpg'
 import MovieSearcher from '../../assets/movie_searcher.jpg'
+import CountriesSearcher from '../../assets/countries.png'
 
 
 export default function Projects() {
@@ -20,6 +21,14 @@ export default function Projects() {
             title: 'Movie Searcher',
             github: "https://github.com/Koleckoo/IC-group-assignment",
             demo: ""
+
+        },
+        {
+            id: 3,
+            image: CountriesSearcher,
+            title: 'Countries Encyklopedia',
+            github: "https://github.com/Koleckoo/countries",
+            demo: "https://keen-gecko-2828c3.netlify.app/"
 
         },
     ]
