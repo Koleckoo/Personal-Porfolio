@@ -20,9 +20,9 @@
 :root {
     /* not bad */
     --color-bg: #1B262C;
---color-bg-variant: #0F4C75;
---color-primary: #3282B8;
---color-primary-variant: #BBE1FA;
+    --color-bg-variant: #0F4C75;
+    --color-primary: #3282B8;
+    --color-primary-variant: #BBE1FA;
 
 /* worse */
 /* --color-bg: #4D4D4D;
