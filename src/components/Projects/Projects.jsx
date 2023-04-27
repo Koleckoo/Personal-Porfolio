@@ -2,6 +2,8 @@ import "./Projects.css"
 import CalenDr from '../../assets/CalenDr.jpg'
 import MovieSearcher from '../../assets/movie_searcher.jpg'
 import CountriesSearcher from '../../assets/countries.png'
+import HotelSpa from '../../assets/hotel_spa.png'
+import SpaceTourism from '../../assets/space-tourism.png'
 
 
 export default function Projects() {
@@ -29,6 +31,22 @@ export default function Projects() {
             title: 'Countries Encyklopedia',
             github: "https://github.com/Koleckoo/countries",
             demo: "https://countries-illetsko.netlify.app/"
+
+        },
+        {
+            id: 4,
+            image: HotelSpa,
+            title: 'Hotel & Spa - case study',
+            github: "https://github.com/Koleckoo/magicware",
+            demo: "https://hotel-and-spa.netlify.app/"
+
+        },
+        {
+            id: 5,
+            image: SpaceTourism,
+            title: 'Space Tourism website',
+            github: "https://github.com/Koleckoo/space-travel-agency",
+            demo: "https://space-tourism-illetsko.netlify.app/"
 
         },
     ]

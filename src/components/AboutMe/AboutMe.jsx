@@ -30,7 +30,7 @@ export default function AboutMe() {
                     <article className="about__card">
                         <VscFolderOpened className="about__icon"/>
                         <h5>Projects</h5>
-                        <small>1 completed</small>
+                        <small>5 completed</small>
                     </article>
                 </div>
                 <p> I am a junior full-stack web developer, that knows his way around HTML, CSS, JavaScript, React,
